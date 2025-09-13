@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Hướng dẫn xoá dữ liệu người dùng</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px; }
+    h1 { color: #333; }
+  </style>
+</head>
+<body>
+  <h1>Hướng dẫn xoá dữ liệu người dùng</h1>
+  <p>Chúng tôi tôn trọng quyền riêng tư của bạn. Nếu bạn muốn yêu cầu xoá dữ liệu cá nhân khỏi hệ thống <strong>Botcamthao</strong>, vui lòng làm theo các bước sau:</p>
+  
+  <ol>
+    <li>Gửi email đến: <a href="mailto:support@botcamthao.com">support@botcamthao.com</a> với tiêu đề <strong>"Yêu cầu xoá dữ liệu"</strong>.</li>
+    <li>Trong email, vui lòng cung cấp:
+      <ul>
+        <li>Địa chỉ email hoặc ID bạn đã dùng để đăng nhập ứng dụng.</li>
+        <li>Nội dung yêu cầu xoá dữ liệu.</li>
+      </ul>
+    </li>
+    <li>Chúng tôi sẽ xác nhận và tiến hành xoá toàn bộ dữ liệu liên quan trong vòng <strong>7 ngày làm việc</strong>.</li>
+  </ol>
+  
+  <p>Nếu có bất kỳ thắc mắc nào, vui lòng liên hệ: <a href="mailto:support@botcamthao.com">support@botcamthao.com</a></p>
+</body>
+</html>
